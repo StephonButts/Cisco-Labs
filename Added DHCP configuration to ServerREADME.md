@@ -1,4 +1,4 @@
-# Project Name: Two-Floor Office Infrastructure
+# Project Name: Added DHCP configuration to Server
 This project demonstrates basic routing, switching, and IP automation.
 
 ## 🚀 What I Learned
